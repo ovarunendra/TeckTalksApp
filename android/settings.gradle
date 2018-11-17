@@ -1,0 +1,3 @@
+rootProject.name = 'TechtalksApp'
+
+include ':app'
